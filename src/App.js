@@ -10,10 +10,6 @@ function App() {
       <h4>เอาใหม่</h4>
       <h5>asd</h5>
       <h6>123</h6>
-      <p>sdoifjasofjaosjf</p>
-      <p>aaaaaaaaaaaaassssssssaaa</p>
-      <p>sadsargs</p>
-      <p>dadsadsadasdaaaaaaaaaaaaaa</p>
     </div>
   );
 }
